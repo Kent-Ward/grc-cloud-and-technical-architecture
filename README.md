@@ -1,5 +1,5 @@
-@"
-# 📘 Cloud & Technical Architecture — GRC Framework
+
+# Cloud & Technical Architecture — GRC Framework
 
 ## Overview
 
@@ -123,6 +123,6 @@ For educational and portfolio purposes only.
 
 
 
-"@ | Out-File -Encoding UTF8 README.md
+
 
 
