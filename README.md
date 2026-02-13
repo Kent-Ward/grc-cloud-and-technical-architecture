@@ -97,8 +97,6 @@ README.md
 
 ---
 
----
-
 ## 📋 Control Alignment
 
 This framework can be aligned to industry standards such as:
