@@ -1,5 +1,5 @@
 
-# Cloud & Technical Architecture — GRC Framework
+# Cloud & Technical Architecture GRC Framework
 
 ## Overview
 
