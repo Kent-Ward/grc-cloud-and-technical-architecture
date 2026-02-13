@@ -80,7 +80,7 @@ Each tier builds on the same structure to prevent rework and reduce audit risk.
 
 ---
 
-## 📂 Repository Structure (Example)
+## Repository Structure (Example)
 
 ```text
 /architecture
