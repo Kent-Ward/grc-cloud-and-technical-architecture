@@ -14,7 +14,7 @@ IAM:
 
 Logging:
 - Logs enabled and centralized
-- Retention less than 930 days
+- Retention less than 30 days
 - No alerting for privilege changes
 
 Device:
