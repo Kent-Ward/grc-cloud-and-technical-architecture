@@ -80,21 +80,22 @@ Each tier builds on the same structure to prevent rework and reduce audit risk.
 
 ---
 
-## Repository Structure (Example)
+## 📂 Repository Structure (Example)
 
+```text
 /architecture
   ├── logical-diagrams/
   ├── trust-boundaries-example.md
   ├── current-vs-planned-example.md
+
 /evidence-samples
   ├── sample-current-vs-planned-state.png
   ├── sample-diagram.png
-README.md
 
+README.md
+```
 
 > Note: Evidence artifacts shown are illustrative only. In production environments, screenshots and exported logs should be securely stored and access-controlled.
-
-
 ---
 
 ## 📋 Control Alignment
